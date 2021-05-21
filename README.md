@@ -1,1 +1,1 @@
-# Class36
+# C36-teacher-reference
